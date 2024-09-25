@@ -1,0 +1,11 @@
+#display{background-color: rgb(41, 32, 32); width: 200px;color: white;
+    padding: 20px; font-size: 30px;}
+display:hover{background-color: orange;}
+body{background-color: rgb(15, 5, 5);}
+button{width: 100px; height: 100px; border-radius: 50px;
+    margin: 30px;background-color: rgb(96, 88, 88);color: azure;
+font-size: 30px; text-align: center; font-weight: bold;padding: 30px;
+font-family: Arial, Helvetica, sans-serif;}
+button:hover{background-color: bisque;}
+button:active{background-color: rgb(16, 93, 171);}
+.operator-btn{background-color: orange;}

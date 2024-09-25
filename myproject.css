@@ -1,0 +1,19 @@
+body{
+    background-image:url(assets/img/images.jpg);color:#b62828 ;
+}
+header{
+    padding: 50px; text-transform: uppercase;color: rgb(17, 20, 25);
+    font-size: 40px;text-align: justify; text-align: center;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size:40px; background-color: rgba(16, 3, 3, 0.229); 
+    border-radius: 70px; font-style: italic;}
+
+ul{margin: 50px;margin-left: 500px;padding: 20px;text-transform: uppercase;
+    font-size:15px; background-color:rgb(182, 136, 136);border-radius: 70px;
+text-decoration-color: rgb(213, 213, 204);}
+    
+    IMG{
+        width: 400px;border-radius: 50px;float: 70px;}
+        p{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 15px;margin:40px; text-align:justify;}
